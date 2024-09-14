@@ -10,7 +10,7 @@ body{
 
 }
 .home-bg {
-    background-color: gray ;
+    background-image: url('./pic/bg-home.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
